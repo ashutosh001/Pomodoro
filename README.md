@@ -2,7 +2,9 @@
 Pomodoro App using Python and Tkinter
 
 # Preview
-WIP
+![preview1](images/ss1.png)
+![preview2](images/ss2.png)
+![preview3](images/ss3.png)
 
 ## About Pomorodo
 The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. It uses a kitchen timer to break work into intervals, typically 25 minutes in length, separated by short breaks. Each interval is known as a pomodoro, from the Italian word for tomato, after the tomato-shaped kitchen timer Cirillo used as a university student.
